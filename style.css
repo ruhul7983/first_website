@@ -1,0 +1,19 @@
+.header{
+    background-color: greenyellow;
+
+}
+.h1{
+    color: blueviolet;
+}
+
+.div1{
+
+    border: 5px solid violet;
+    box-shadow: 5px 5px 10px violet;
+    
+}
+
+p{
+    color: rgb(51, 0, 218);
+    text-align: center;
+}
