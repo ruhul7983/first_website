@@ -87,3 +87,53 @@ grid-template-columns: repeat(2, 1fr);
     margin: 0 auto;
     font-size: 12px;
 }
+
+.hero-heading h4, h2{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+/* About CSS */
+
+.about-section{
+    padding: 100px;
+
+}
+.about-content{
+    align-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.about-img{
+    margin-right: 30px;
+}
+.about-text h3 h1{
+    text-transform: uppercase;
+}
+
+.bottom-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5rem;
+}
+
+.bottom-content{
+    text-align: center;
+
+}
+.service-section{
+    background-color: #eae6e6;
+    padding: 100px;
+}
+
+
+.top-section{
+    margin-bottom: 40px;
+    text-align: center;
+}
+.img-section img{
+    width: 100%;
+}
